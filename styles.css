@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+table{
+	border: 2px solid black;
+	height:300px;
+	width:300px;
+}
+td{
+	border:1px solid black;
+	
+}
+video{
+	width:300px;
+}
